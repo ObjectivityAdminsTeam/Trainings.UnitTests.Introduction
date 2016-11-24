@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyImporter", "CurrencyImporter\CurrencyImporter.csproj", "{CE640E75-20F6-4B93-887C-72D1F4EFEDD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyImporter.Tests", "CurrencyImporter.Tests\CurrencyImporter.Tests.csproj", "{F600AF39-CB26-4C8F-BE45-6FE7F658F61A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE640E75-20F6-4B93-887C-72D1F4EFEDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE640E75-20F6-4B93-887C-72D1F4EFEDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE640E75-20F6-4B93-887C-72D1F4EFEDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE640E75-20F6-4B93-887C-72D1F4EFEDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F600AF39-CB26-4C8F-BE45-6FE7F658F61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F600AF39-CB26-4C8F-BE45-6FE7F658F61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F600AF39-CB26-4C8F-BE45-6FE7F658F61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F600AF39-CB26-4C8F-BE45-6FE7F658F61A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
